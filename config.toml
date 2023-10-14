@@ -4,14 +4,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[YouTube]
 
-build-mode = "apk"                                                   # 'both', 'apk' or 'module'
-excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
-included-patches = "'Custom branding'"                                                 # space-seperated patches to include (non-excluded patches are included by default)
-version = "latest"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -19,36 +14,21 @@ apkmirror-arch = "arm-v7a"
 version = "latest"
 
 [Tiktok]
-
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-version = "beta"
 included-patches = "'SIM spoof'"
 
-[Reddit]
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+apkmirror-arch = "arm-v7a"
+version = "beta"
+included-patches = "'Custom branding' 'Remove player controls background'"
 
+[Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 version = "beta"
 
 [Twitter]
-
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 apkmirror-arch = "arm-v7a"
 version = "beta"
 
-[Lightroom]
-
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-version = "latest"    
-  
-
-[Spotify]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ltd/spotify-music-and-podcasts-fire-tv/"
-version = "latest"    
-
-[Backdrops]
-version = "beta"    
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-
-[Photomath]
-version = "latest"    
-apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
