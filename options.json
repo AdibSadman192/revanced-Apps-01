@@ -1,1 +1,13 @@
-[]
+        
+[
+  {
+    "patchName": "Premium heading",
+    "options": [
+      {
+        "key": "usePremiumHeading",
+        "value": "No"
+      }
+    ]
+  }
+]
+        
