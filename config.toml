@@ -11,17 +11,13 @@ excluded-patches = ""                                                 # space-se
 included-patches = "'Custom branding'"                                                 # space-seperated patches to include (non-excluded patches are included by default)
 version = "latest"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-arch = "arm-v7a"
 
 
 [Messenger]
-
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-apkmirror-arch = "arm-v7a"
 version = "latest"
 
 [Music]
-
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "arm-v7a"
 version = "latest"
@@ -29,14 +25,12 @@ version = "latest"
 [Tiktok]
 
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-apkmirror-arch = "arm-v7a"
 version = "latest"
 included-patches = "'SIM spoof'"
 
 [Reddit]
 
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-apkmirror-arch = "arm-v7a"
 version = "latest"
 
 [Twitter]
@@ -53,7 +47,6 @@ version = "latest"
   
 
 [Spotify]
-
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "latest"    
 
