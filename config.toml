@@ -33,3 +33,13 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 apkmirror-arch = "arm-v7a"
 version = "beta"
 
+[Spotify]
+apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ltd/spotify-music-and-podcasts-fire-tv/"
+apkmirror-arch = "both"
+version = "latest"
+
+[Backdrops Wallpapers]
+apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+apkmirror-arch = "both"
+version = "latest"
+
