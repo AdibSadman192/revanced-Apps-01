@@ -44,7 +44,7 @@ version = "latest"
 
 [Messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-apkmirror-arch = "armeabi-v7a"
+apkmirror-arch = "both"
 version = "latest"
 
 #[Spotify]
