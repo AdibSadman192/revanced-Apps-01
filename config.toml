@@ -65,7 +65,7 @@ version = "latest"
 [backdrops-wallpapers]
 apkmirror-dlurl="https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 version = "latest"
-apkmirror-arch = "arm64-v8a"
+apkmirror-arch = "arm64-v8a + x86 + x86_64"
 
 [vsco-cam]
 apkmirror-dlurl="https://www.apkmirror.com/apk/vsco/vsco-cam/"
