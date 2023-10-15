@@ -10,23 +10,26 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[YouTube]
+[youtube]
 build-mode = "apk"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
-version = "latest"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+version = "beta"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+apkmirror-dlurl="https://www.apkmirror.com/apk/google-inc/youtube/"
 
 
-[Music]
+[youtube-music]
 build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+apkmirror-dlurl="https://www.apkmirror.com/apk/google-inc/youtube-music/"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-arch = "arm-v7a"
 version = "latest"
 
-[Twitter]
+[twitter]
 build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+apkmirror-dlurl="https://www.apkmirror.com/apk/x-corp/twitter/"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 version = "beta"
 
 
@@ -61,8 +64,8 @@ version = "latest"
 
 [backdrops-wallpapers]
 apkmirror-dlurl="https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-apkmirror-arch = "arm64-v8a + x86 + x86_64"
 version = "latest"
+apkmirror-arch = "arm64-v8a"
 
 [vsco-cam]
 apkmirror-dlurl="https://www.apkmirror.com/apk/vsco/vsco-cam/"
