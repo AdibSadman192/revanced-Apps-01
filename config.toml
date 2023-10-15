@@ -30,12 +30,12 @@ version = "latest"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 version = "latest"
 
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-version = "beta"
+#[Twitter]
+#apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+#version = "beta"
 
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+#[Instagram]
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 
 [Spotify]
