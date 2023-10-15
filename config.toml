@@ -32,12 +32,11 @@ version = "latest"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-apkmirror-arch = "both"
-version = "latest"
+version = "beta"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-apkmirror-arch = "both"
+
 
 [Spotify]
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.spotify.music/"
@@ -46,7 +45,6 @@ version = "latest"
 [Backdrop]
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.backdrops.wallpapers/"
 version = "latest"
-
 
 [ VSCO ]
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.vsco.cam/"
