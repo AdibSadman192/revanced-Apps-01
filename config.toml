@@ -32,23 +32,23 @@ version = "latest"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-apkmirror-arch = "arm-v7a"
+apkmirror-arch = "both"
 version = "latest"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-apkmirror-arch = "arm-v7a"
+apkmirror-arch = "both"
 
 [Spotify]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ltd/spotify-music-and-podcasts-fire-tv/"
-apkmirror-arch = "arm64-v8a"
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.spotify.music/"
+version = "latest"
 
 [Backdrop]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.backdrops.wallpapers/"
 version = "latest"
-apkmirror-arch = "both"
 
-[ VSCO: Photo & Video Editor]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/"
-apkmirror-arch = "both"
+
+[ VSCO ]
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.vsco.cam/"
+version ="latest"
 
