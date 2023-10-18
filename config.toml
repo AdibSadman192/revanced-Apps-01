@@ -37,9 +37,9 @@ apkmirror-dlurl="https://www.apkmirror.com/apk/redditinc/reddit/"
 version = "latest"
 
 
-[Messenger]
+[messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-apkmirror-arch = "both"
+#apkmirror-arch = "both"
 version = "latest"
 
 #[Spotify]
