@@ -39,7 +39,7 @@ version = "latest"
 
 [messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-#apkmirror-arch = "both"
+apkmirror-arch = "both"
 version = "latest"
 
 #[Spotify]
@@ -64,6 +64,7 @@ apkmirror-dlurl="https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [vsco-cam]
 apkmirror-dlurl="https://www.apkmirror.com/apk/vsco/vsco-cam/"
+version="latest"
 
 
 
