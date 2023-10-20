@@ -45,7 +45,7 @@ version = "latest"
 [twitter]
 build-mode = "apk"
 apkmirror-dlurl="https://www.apkmirror.com/apk/x-corp/twitter/"
-version = "beta"
+version = "latest"
 
 [Twitch]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
