@@ -37,28 +37,35 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Twitter]
-build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
-[Twitch]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[TikTok]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-
-[Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+apkmirror-arch = "both"
+version = "latest"
 
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+[twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+version = "latest"
 
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+[youtube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+apkmirror-arch = "arm-v7a"
+version = "latest"
+
+[reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+version = "latest"
+
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+apkmirror-arch = "both"
+version = "latest"
