@@ -6,12 +6,17 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+#[YouTube]
+#build-mode = "both"
+#excluded-patches = ""
+#included-patches = ""
+#version = "auto"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[youtube]
+build-mode="apk"
+version="latest"
+apkmirror-dlurl="https://www.apkmirror.com/apk/google-inc/youtube"
 
 
 [Music-Extended]
@@ -33,21 +38,25 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[backdrop-wallpapers]
+build-mode="apk"
+version="auto"
+apkmirror-dlurl="https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-apkmirror-arch = "both"
+#apkmirror-arch = "both"
 version = "latest"
 
 [twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 version = "latest"
 
-[youtube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+[vsco-cam]
+apkmirror-dlurl="https://www.apkmirror.com/apk/vsco/vsco-cam/"
 
 [music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
