@@ -33,7 +33,7 @@ Go to [Release](https://github.com/AdibSadman192/revanced-Apps/releases) to down
 7. Instagram
 8. Messenger
 9. Backdrop
-10.Lightroom
+10. Lightroom
 ```
 
 
