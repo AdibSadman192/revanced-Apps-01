@@ -19,7 +19,7 @@ arch = "both"
 
 [twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-version = "latest"
+version = "beta"
 
 [Twitch]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
