@@ -1,6 +1,6 @@
 {
-  "version": "v7.29.52 (20220986)",
-  "versionCode": 20220986,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220986/music-revanced-magisk-v7.29.52-arm64-v8a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v7.29.52 (patches: 5.8.0)",
+  "versionCode": 135,
+  "zipUrl": "https://github.com/AdibSadman192/revanced-Apps/releases/download/135/music-revanced-magisk-v7.29.52-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/AdibSadman192/revanced-Apps/update/build.md"
 }
